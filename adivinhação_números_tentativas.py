@@ -3,6 +3,7 @@
 # Há um controle de erros. Se o jogador digitar um número fora da faixa permitida ou caracteres não numéricos, o sistema notificará o jogador e solicitar o input correto.
 # Há a opção de o usuário iniciar uma nova partida. Ao finalizar uma rodada, após o resultado final, o jogo irá perguntar se o jogador quer iniciar uma nova partida e, em caso negativo, encerra a aplicação.
 
+
 from random import randint
 from time import sleep
 
